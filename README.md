@@ -1,5 +1,5 @@
 # AI-Productivity-Assistant
-An AI powered assistant that automates workplace tasks such as mail generation Meeting summarization Task planning Research assistance Chatbot interaction ensuring responsible and ethical use of AI and providing practical solutions
+Orin, an AI powered assistant that automates workplace tasks such as mail generation Meeting summarization Task planning Research assistance Chatbot interaction ensuring responsible and ethical use of AI and providing practical solutions
 Base 44 was the AI build a website app used to build my AI assisitant.
 the following prompt was typed in to produce it.
 Build a modern, responsive web application called “AI Workplace Productivity Assistant” that helps professionals automate daily work tasks using AI. 
