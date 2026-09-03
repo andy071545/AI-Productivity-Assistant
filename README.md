@@ -4,7 +4,7 @@ Base 44 was the AI build a website app used to build my AI assisitant.
 the following prompt was typed in to produce it.
 Build a modern, responsive web application called “AI Workplace Productivity Assistant” that helps professionals automate daily work tasks using AI. 
  
-The application should has a clean, professional UI with a dashboard layout, sidebar navigation, and interactive components. 
+The application has a clean, professional UI with a dashboard layout, sidebar navigation, and interactive components. 
  
 Core Features: 
 Smart Email Generator (tone + audience-based)  
