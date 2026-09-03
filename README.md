@@ -21,5 +21,5 @@ Design Style:
 Modern SaaS UI (clean, minimal, professional)  
 Sidebar navigation + card-based layout  
 Output: 
-A fully functional prototype with interactive UI and AI-powered features
-https://overjoyed-work-flow-sync.base44.app
+A fully functional prototype with interactive UI and AI-powered features.
+Visit https://overjoyed-work-flow-sync.base44.app
